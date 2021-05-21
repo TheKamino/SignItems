@@ -1,0 +1,14 @@
+name: SignItems
+version: 1.0
+main: de.kamikazozi.signitems.SignItems
+author: KamiKazozi
+
+commands:
+  signitems:
+    aliases:
+      - si
+      - items
+      - sign
+      - itemverify
+      - itemverifizieren
+      - verifyitem
